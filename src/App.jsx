@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+importconst FIRMS_API_KEY = import.meta.env.VITE_FIRMS_KEY; const FIRMS_URL = `/api/firms`; { useState, useEffect, useRef } from "react";
 const FIRMS_API_KEY = import.meta.env.VITE_FIRMS_KEY;
 const FIRMS_URL = `/api/firms`;
 /* ── PALETTE ─────────────────────────────────────────────── */
